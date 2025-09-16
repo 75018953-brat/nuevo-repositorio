@@ -1,2 +1,3 @@
 # nuevo-repositorio
-primer repositorio practico de clases github
+brat luis panez garcia 
+APSTI
